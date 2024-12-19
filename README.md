@@ -1,2 +1,2 @@
 # bash-scripts-collection
-A collection of different Bash scripts for Linux.
+A collection of different Bash scripts for GNU/Linux.
